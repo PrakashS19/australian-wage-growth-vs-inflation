@@ -1,0 +1,44 @@
+{
+  "data_end": "2026Q2",
+  "peak_quarter": "2020Q2",
+  "trough_quarter": "2023Q2",
+  "peak_to_trough_pct": -7.38,
+  "recovered_quarter": null,
+  "latest_vs_peak_pct": -6.66,
+  "robustness_2019Q4": {
+    "base": "2019Q4",
+    "to_trough_pct": -5.49,
+    "trough_quarter": "2023Q2",
+    "to_latest_pct": -4.76
+  },
+  "latest_cpi_yoy": 3.94,
+  "latest_wpi_yoy": 3.2,
+  "latest_real_yoy": -0.71,
+  "peak_cpi_yoy": 7.86,
+  "peak_cpi_quarter": "2022Q4",
+  "wpi_yoy_at_peak_cpi": 3.39,
+  "quarters_real_negative_since_2020": 14,
+  "sector": {
+    "peak_quarter": {
+      "All (private + public)": "2020Q2",
+      "Private": "2020Q2",
+      "Public": "2020Q2"
+    },
+    "change_peak_to_trough_%": {
+      "All (private + public)": -7.38,
+      "Private": -7.06,
+      "Public": -8.57
+    },
+    "change_peak_to_latest_%": {
+      "All (private + public)": -6.66,
+      "Private": -6.42,
+      "Public": -7.55
+    }
+  },
+  "series_ids": {
+    "cpi": "A2325846C",
+    "wpi": "A2603609J",
+    "wpi_private": "A2603039T",
+    "wpi_public": "A2603989W"
+  }
+}

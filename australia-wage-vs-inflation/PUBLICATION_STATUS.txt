@@ -1,0 +1,4 @@
+This package is prepared for GitHub publication, NOT yet published to a GitHub account.
+Independent checks in the preceding session: original uploaded ABS file byte identity verified and executed notebook outputs present.
+This publishing pass: SHA256 and ZIP integrity checks passed; source notebooks scanned for obvious local user paths and secrets.
+Original RMIT R/ggplot2 source and RPubs link: NOT RECOVERED.

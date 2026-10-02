@@ -1,0 +1,23 @@
+SOURCE — Official Australian Bureau of Statistics time-series workbooks
+
+CPI:
+Release: Consumer Price Index, Australia, August 2026 (published 30 September 2026).
+Page: https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/aug-2026
+Table: Table 17, CPI Quarterly All Groups, Index numbers and Percentage change
+Official URL: https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/aug-2026/6401017.xlsx
+Workbook in this repo: 6401017.xlsx
+Worksheet: Data1
+Series: A2325846C — All groups CPI, Australia, Original, quarterly
+
+WPI:
+Release: Wage Price Index, Australia, June quarter 2026 (published 19 August 2026).
+Page: https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/jun-2026
+Table: Table 1, Total hourly rates of pay excluding bonuses, sector, original/seasonally adjusted/trend
+Official URL: https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/jun-2026/634501.xlsx
+Workbook in this repo: 634501.xlsx
+Worksheet: Data1
+Series: A2603609J (Private and Public original index), A2603039T (Private original), A2603989W (Public original), A2603611V (ABS annual WPI % change, original).
+
+Downloaded by user and uploaded in this chat, 2 October 2026. Original user-uploaded filenames: 6401017 (1).xlsx, 634501 (2).xlsx. The repo uses the ABS original basenames, with byte-identical content (verified by SHA-256).
+
+Copyright/attribution: © Commonwealth of Australia, Australian Bureau of Statistics. ABS website content is generally licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), with exceptions (e.g. logo, Coat of Arms, third-party material). See https://www.abs.gov.au/website-privacy-copyright-and-disclaimer and any individual workbook restrictions.
