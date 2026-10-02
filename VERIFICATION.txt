@@ -1,0 +1,8 @@
+INDEPENDENT NOTEBOOK EXECUTION: PASS (all code cells ran without error against the uploaded ABS workbooks).
+Uploaded ABS workbook bytes: SAME SHA-256 as repository copies.
+CPI source ID: A2325846C; WPI source IDs: A2603609J, A2603039T, A2603989W, A2603611V; confirmed in Data1 sheet.
+Aligned time span: 1997Q3–2026Q2; 116 rows; four leading unavailable WPI published YoY observations.
+Validation 1: WPI calculated vs published YoY series, maximum abs deviation 0.049 pp over 112 quarters: PASS.
+Validation 2: CPI computed YoY vs stored published reference values in recovered code, maximum abs deviation below 0.1 pp: PASS.
+Real ratio change 2019Q4 to 2026Q2: -4.76%; 10 consecutive negative annual growth quarters from 2021Q2 through 2023Q3.
+Note: no automated regression test of the older original RMIT project, whose artifacts were not recovered.

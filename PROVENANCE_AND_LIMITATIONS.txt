@@ -1,0 +1,7 @@
+ORIGIN LABELS
+ORIGINAL ABS DATA: User-uploaded spreadsheets of 2 October 2026, SHA-256 checked against copies.
+RECOVERED CLAUDE IMPLEMENTATION: Notebook recovered from earlier Claude export tool records in the previous chat turn, not an original RMIT R notebook.
+NEWLY RECONSTRUCTED/VERIFIED OUTPUT: Independently executed notebook, outputs, figures, this README, source notes and verification report in the current session.
+NOT FOUND: Earlier RMIT R script, RMarkdown original, RPubs URL, previous R-only analysis, and Claude's originally generated ZIP.
+Do not attribute the reconstructed Python numerical findings to the original RMIT project unless original coursework is separately recovered.
+LIMITATIONS: CPI/WPI proxy not take-home real wages; source index reference-base differences make level ratios arbitrary; 2019Q4-referenced relative ratio changes interpretable; 2020Q2 transient CPI decline affects peak-based measures; no causality claim.
